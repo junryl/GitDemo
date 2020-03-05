@@ -5,6 +5,7 @@
 
 	echo multiply();
 	function multiply($x = 10,$y = 5){
+		//added comments on multiply
 		return $x * $y;
 	}
 
